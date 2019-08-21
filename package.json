@@ -1,13 +1,13 @@
 {
   "name": "littlewechat-admin",
   "version": "1.0.0",
-  "description": "",
+  "description": "koa server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "wangyuanfen",
+  "license": "MIT",
   "devDependencies": {},
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
